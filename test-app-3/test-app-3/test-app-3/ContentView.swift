@@ -30,7 +30,7 @@ struct ContentView: View {
             ScrollView {
                 VStack(alignment: .leading, spacing: 20) {
                     // Welcome Message
-                    Text("Hello Chris, Welcome Back")
+                    Text("Welxcome Chris")
                         .font(.largeTitle)
                         .fontWeight(.bold)
                         .padding(.top)
